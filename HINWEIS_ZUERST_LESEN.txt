@@ -1,0 +1,8 @@
+DER GRANSIER Android Musik-App, erste Version.
+
+Dies ist ein Android-Studio-Projekt (Quellcode) und noch keine direkt installierbare APK.
+Anleitung: README.md im Projektordner.
+
+Der Musikkatalog wird über die öffentliche Apple/iTunes-Schnittstelle geladen.
+Spotify-Titel werden gesucht oder, soweit bekannte Links eingetragen sind, direkt geöffnet.
+Nicht garantiert ist die lückenlose Abdeckung aller Lieder oder ein integrierter Vollplayer.
